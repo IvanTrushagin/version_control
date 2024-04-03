@@ -91,3 +91,20 @@ git branch -d <имя ветки>
 ```sh
 git log --oneline --graph
 ```
+# GitHub
+* Для того чтобы сделать клон рпозитория нужно нажать FORK
+> Fork — это создание ветвления проекта в собственном пространстве имён.
+
+Копируем ссылку,например:
+```sh
+https://github.com/IvanTrushagin/version_control.git
+```
+и у себя в терминале вводим команду
+```sh
+git clone
+```
+так выглядит вся команда
+```sh
+git clone https://github.com/IvanTrushagin/version_control.git
+```
+
