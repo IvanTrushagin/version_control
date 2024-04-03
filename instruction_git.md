@@ -107,4 +107,8 @@ git clone
 ```sh
 git clone https://github.com/IvanTrushagin/version_control.git
 ```
+* Создаем новую ветку ,вносим необходимые изменения,сохраняем и можно сохранить изменения на GitHub с помощью команды
+```sh
+git push
+```
 
