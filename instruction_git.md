@@ -111,4 +111,7 @@ git clone https://github.com/IvanTrushagin/version_control.git
 ```sh
 git push
 ```
-
+* При слиянии двух веток локально и браузерной версии возможенконфликт разрешить его можно с помощью команды
+```sh
+git pull --rebase
+```
